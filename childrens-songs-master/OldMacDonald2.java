@@ -24,6 +24,7 @@ public class OldMacDonald2
     {
         /**
          * this sings the 2nd line
+         * @param animal the animal of the verse
          */
         System.out.println("And on that farm he had a " + animal + ", E I E I O.");
     }
@@ -33,6 +34,7 @@ public class OldMacDonald2
     {
         /**
          * sings the 3-4th lines.
+         * @param sound the sound the animal makes
          */
         System.out.println("With a " + sound + " " + sound +  " here and a " + sound + " " + sound +  " there.");
         System.out.println("Here a " + sound + ", there a " + sound + ", everywhere a " + sound + ", " + sound + ".");
@@ -43,6 +45,8 @@ public class OldMacDonald2
     {
         /**
          * This orginizes the other functions.
+         * @param animal the animal of the verse
+         * @param sound the sound the animal makes
          */
         eieio();
         hadA(animal);
@@ -56,6 +60,7 @@ public class OldMacDonald2
     {
         /**
          * this is where the magic happens.
+         *
          */
         System.out.println("Old MacDonald Had A Farm\n"); // Give our song a title
 

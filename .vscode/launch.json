@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Geometry",
+            "request": "launch",
+            "mainClass": "Geometry",
+            "projectName": "APCS-A_a7d4d154"
+        }
+    ]
+}
