@@ -1,0 +1,30 @@
+Aryan is facing East
+Aryan, x = 10.0, Y = 0.0, Dir = 2.0
+Craig is facing North
+Craig, x = 0.0, Y = 10.0, Dir = 0.0
+Mark is facing Northeast
+Mark, x = 10.0, Y = 10.0, Dir = 1.0
+Cole is facing Southwest
+Cole, x = 10.0, Y = 10.0, Dir = 5.0
+Cole is facing West
+Cole, x = 0.0, Y = 10.0, Dir = 6.0
+Cole is facing South
+Cole, x = 0.0, Y = 0.0, Dir = 4.0
+Cole is facing West
+Cole, x = -10.0, Y = 0.0, Dir = 6.0
+Cole is facing South
+Cole, x = -10.0, Y = -10.0, Dir = 4.0
+Sky is facing Northwest
+Sky, x = -10.0, Y = 10.0, Dir = 7.0
+Brian is facing Southeast
+Brian, x = 10.0, Y = -10.0, Dir = 3.0
+Noelle is facing East
+Noelle, x = 1.0, Y = 0.0, Dir = 2.0
+Noelle is facing North
+Noelle, x = 1.0, Y = 10.0, Dir = 0.0
+Brendan is facing West
+Brendan, x = -10.0, Y = 0.0, Dir = 6.0
+Brendan is facing North
+Brendan, x = -10.0, Y = 1.0, Dir = 0.0
+Aryan is facing West
+Aryan, x = 0.0, Y = 0.0, Dir = 6.0

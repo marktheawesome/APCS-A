@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MixedLoopPractice",
+            "request": "launch",
+            "mainClass": "MixedLoopPractice",
+            "projectName": "APCS-A_a7d4d154"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Geometry",
             "request": "launch",
             "mainClass": "Geometry",
